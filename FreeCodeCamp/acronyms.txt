@@ -1,0 +1,3 @@
+FIFO - First In First Out
+IDE - Integrated Development Env
+ide - i want you
