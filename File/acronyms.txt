@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 FIFO - First In First Out
 IDE - Integrated Development Env
 ide - i want you
 
 
+=======
+FIFO - First In First Out
+IDE - Integrated Development Env
+ide - i want you
+
+
+>>>>>>> 3012899 (First_commit)
